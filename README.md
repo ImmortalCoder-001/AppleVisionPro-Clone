@@ -1,31 +1,26 @@
-# Apple Vision Pro Clone
+# Apple Vision Pro Clone 🎥🖥️
 
-This is a fully responsive and interactive clone of the Apple Vision Pro product page. It replicates Apple's smooth animations, immersive product showcase, and modern design.
+A fully interactive and animated **Apple Vision Pro clone website**, replicating Apple's smooth UI/UX with **Canvas animations, GSAP effects, and custom scrolling**. This project enhances the browsing experience with **high-quality animations and a sleek design**.
 
 ## 🚀 Features
-- **Smooth Scrolling**: Powered by [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll) for a seamless scrolling experience.
-- **GSAP Animations**: Used for transitions, fades, and smooth element interactions.
-- **High-Quality Videos & Images**: Mimics Apple's official product page layout and media integration.
+- **Canvas API Animations**: Dynamic graphics and animations for an immersive feel.
+- **Smooth Scrolling & GSAP Animations**: Enhanced transitions and interactive elements.
+- **Video Background**: Adds depth to the user experience.
+- **Custom Cursor & Hover Effects**: Unique pointer interactions.
 
 ## 🛠️ Technologies Used
-- **HTML5**: Structure of the web page.
-- **CSS3**: Styling, layout, and animations.
-- **JavaScript (GSAP & Locomotive Scroll)**: Smooth scrolling and interactive animations.
+- **HTML5 & CSS3** - Structure & styling
+- **JavaScript (GSAP & Canvas API)** - Animations & interactions
+- **Locomotive Scroll** - Smooth scrolling effects
 
 ## 📂 Project Structure
+📁 Apple-Vision-Pro-Clone ├── 📄 index.html # Main HTML structure ├── 📄 style.css # Styling and animations ├── 📄 script.js # JavaScript for interactions & Canvas animations ├── 📁 assets/ Images & Videos
 
-📁 Apple-Vision-Pro-Clone ├── 📄 index.html # Main webpage structure ├── 📄 style.css # Styling for the project ├── 📄 script.js # JavaScript for animations and scrolling effects ├── 📁 assets/ # (Optional) Store images and videos
-
-
-## 🎥 Demo
-[Live Demo](#) (Add your live demo link here)
-
-## 🛠️ Installation
-1. Clone the repository:
+## 🛠️ Installation  
+1. Clone the repository:  
    ```sh
    git clone https://github.com/yourusername/apple-vision-pro-clone.git
-   
 2.Open index.html in your browser.
 
 📞 Contact
-For any inquiries, reach out at muizzabdul87@gmail.com.
+For any inquiries, reach out at muizzabdul87@gmail.com
